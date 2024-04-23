@@ -15,7 +15,7 @@
 </h1>
 
 <h1 align="center">
- Welcom To My GitHub Profile
+ Welcome To My GitHub Profile
 </h1>
 
  I'm a `Python Back-end Developer`. Here you'll find a collection of my projects, contributions, and more. Feel free to explore and reach out if you have any questions or collaboration ideas.
