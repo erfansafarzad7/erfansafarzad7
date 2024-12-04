@@ -35,10 +35,6 @@
   <a href="https://www.linkedin.com/in/erfansafarzad7">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  
-  <a href="https://twitter.com/Erfansafarzad7">
-    <img src="https://img.shields.io/badge/X (twitter)-gray?logo=x&logoColor=black&style=for-the-badge" alt="X Badge"/>
-  </a>
 
 </div>
 
@@ -64,7 +60,6 @@
 - `"Linux",`                                                                                                            
 - `"Docker",`
 - `"Web Scrapping",`
-- `"Elastic Search",`
 - `"Rabbitmq",`
 - `"asyncIO",`
 - `"HTML-CSS-JS",`
@@ -97,10 +92,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="matplotlib" **alt="matplotlib" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" **alt="jupyter" width="50" height="50" />
 </div>
-
----
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erfansafarzad7&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 
