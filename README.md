@@ -11,16 +11,16 @@
 ---
 
 <h1 align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi There, I'm Erfan
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi There
 </h1>
 
 <h1 align="center">
  Welcome To My GitHub Profile
 </h1>
 
- I'm a `Python Back-end Developer`. Here you'll find a collection of my projects, contributions, and more. Feel free to explore and reach out if you have any questions or collaboration ideas.
+I'm a `Python` and `Django` developer with a passion for building scalable and secure web applications. I started my programming journey in jan/2022 and focused on Python and Django since sep/2022. For more information, visit my website [erfansafarzad7.ir](https://erfansafarzad7.ir) ❤️.
 
-
+📞 Here are the ways to get in touch with me:
 
 <div id="badges" align="center">
   
@@ -51,23 +51,18 @@
 
 
 ## :sunglasses: About Me :
-- :heart: My programming journey started at "feb/2022".
 - :fire: I have good experience in [`"Python"`, `"Django"`, `"Django-Rest-Framework"`]
-- :computer: And i currently focused on `"Django-Rest-Framework"` Topics.
+- :computer: Currently, I am focused on `"Security"` Topics.
 - :mag: I'm always seeking out new challenges to grow professionally.
 - :monocle_face: I have familiar with [
-- `"Testing",`
 - `"Linux",`                                                                                                            
+- `"WebSocket",`
+- `"GraphQL",`
 - `"Docker",`
-- `"Web Scrapping",`
-- `"Rabbitmq",`
-- `"asyncIO",`
+- `"FastApi",`
+- `"Celery"`
 - `"HTML-CSS-JS",`
-- `"And MORE..."`]
-
- 
-<!-- - :star_struck: I'm very intrested to learn [`"Security"`, `"BlockChain"`, `"AI"`] -->
-
+- ]
 
 ---
 
@@ -78,18 +73,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" title="django-rest-framework" **alt="django-rest-framework" width="50"height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" **alt="postman" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="git" width="50" height="50" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="github" width="50" height="50" />
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="github" width="50" height="50" /> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" **alt="docker" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" **alt="postgresql" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="redis" **alt="redis" width="50" height="50" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" **alt="mongodb" width="50" height="50" />
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" **alt="mongodb" width="50" height="50" /> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="rabbitmq" **alt="rabbitmq" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" **alt="html" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" **alt="css" width="50" height="50" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="swagger" **alt="swagger" width="50" height="50" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" title="elasticsearch" **alt="elasticsearch" width="50" height="50"/>
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="swagger" **alt="swagger" width="50" height="50" /> -->
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" title="elasticsearch" **alt="elasticsearch" width="50" height="50"/> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" **alt="pandas" width="50" height="50" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="matplotlib" **alt="matplotlib" width="50" height="50" />
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="matplotlib" **alt="matplotlib" width="50" height="50" /> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" **alt="jupyter" width="50" height="50" />
 </div>
 
