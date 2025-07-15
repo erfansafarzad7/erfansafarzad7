@@ -66,14 +66,19 @@ Currently exploring Express.js, advanced DevOps, and Blockchain to expand my bac
 
 
 #### 💻 Frontend
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=mui&logoColor=white)
 ![ShadCN](https://img.shields.io/badge/-ShadCN-111827?style=flat-square&logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=flat-square)
+![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
 ![Zod](https://img.shields.io/badge/-Zod-3F3F46?style=flat-square)
+![Drizzle ORM](https://img.shields.io/badge/-Drizzle%20ORM-4A5568?style=flat-square&logo=sqlite&logoColor=white)
 ![Auth.js](https://img.shields.io/badge/-Auth.js-3E63DD?style=flat-square)
+![Resend](https://img.shields.io/badge/-Resend-000000?style=flat-square&logo=minutemailer&logoColor=white)
 
 
 #### 🧠 Async, Testing & Architecture
@@ -91,8 +96,11 @@ Currently exploring Express.js, advanced DevOps, and Blockchain to expand my bac
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FF7043?style=flat-square)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat-square)
+![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-4B8BBE?style=flat-square&logo=python&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square)
+![Upstash](https://img.shields.io/badge/-Upstash-00DC82?style=flat-square&logo=redis&logoColor=white)
 
 
 #### ⚙️ Tools & DevOps
