@@ -66,6 +66,7 @@ Currently exploring Express.js, advanced DevOps, and Blockchain to expand my bac
 ![multiprocessing](https://img.shields.io/badge/-Multiprocessing-4CAF50?style=flat-square)
 ![multithreading](https://img.shields.io/badge/-Multithreading-81C784?style=flat-square)
 ![pytest](https://img.shields.io/badge/-pytest-0A0A0A?style=flat-square)
+![Django Tests](https://img.shields.io/badge/-Django%20Testing-092E20?logo=django&logoColor=white&style=flat-square)
 ![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-6A1B9A?style=flat-square)
 
 
@@ -83,6 +84,7 @@ Currently exploring Express.js, advanced DevOps, and Blockchain to expand my bac
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![ShadCN](https://img.shields.io/badge/-ShadCN-111827?style=flat-square&logo=tailwindcss&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=flat-square)
 ![Zod](https://img.shields.io/badge/-Zod-3F3F46?style=flat-square)
