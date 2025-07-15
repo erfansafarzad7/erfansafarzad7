@@ -96,7 +96,7 @@ Currently exploring Express.js, advanced DevOps, and Blockchain to expand my bac
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+<!-- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square) -->
 
 
 #### 🛡 Security
@@ -107,6 +107,7 @@ Currently exploring Express.js, advanced DevOps, and Blockchain to expand my bac
 
 
 ---
+
 
 ### 🎯 Learning Goals
 
