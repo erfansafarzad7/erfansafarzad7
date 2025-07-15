@@ -113,6 +113,8 @@ Currently exploring Express.js, advanced DevOps, and Blockchain to expand my bac
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
 ![DevOps](https://img.shields.io/badge/-DevOps-24B6A4?style=flat-square)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?style=flat-square)
+![Microservices](https://img.shields.io/badge/-Microservices-4A90E2?style=flat-square&logo=docker&logoColor=white)
+![System Design](https://img.shields.io/badge/-System%20Design-8E44AD?style=flat-square&logo=architect&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square)
 ![Smart Contracts](https://img.shields.io/badge/-Smart_Contracts-764ABC?style=flat-square)
 
