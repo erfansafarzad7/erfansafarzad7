@@ -49,8 +49,12 @@ Currently exploring Express.js, advanced DevOps, and Blockchain to expand my bac
 
 ### ⚙️ Tech Stack
 
-#### 🛠 Backend
+#### ✨ Languages:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+
+#### 🛠 Backend
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
@@ -59,6 +63,17 @@ Currently exploring Express.js, advanced DevOps, and Blockchain to expand my bac
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-35495E?style=flat-square)
+
+
+#### 💻 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![ShadCN](https://img.shields.io/badge/-ShadCN-111827?style=flat-square&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=flat-square)
+![Zod](https://img.shields.io/badge/-Zod-3F3F46?style=flat-square)
+![Auth.js](https://img.shields.io/badge/-Auth.js-3E63DD?style=flat-square)
 
 
 #### 🧠 Async, Testing & Architecture
@@ -80,17 +95,6 @@ Currently exploring Express.js, advanced DevOps, and Blockchain to expand my bac
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square)
 
 
-#### 💻 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
-![ShadCN](https://img.shields.io/badge/-ShadCN-111827?style=flat-square&logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=flat-square)
-![Zod](https://img.shields.io/badge/-Zod-3F3F46?style=flat-square)
-![Auth.js](https://img.shields.io/badge/-Auth.js-3E63DD?style=flat-square)
-
-
 #### ⚙️ Tools & DevOps
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
@@ -100,10 +104,28 @@ Currently exploring Express.js, advanced DevOps, and Blockchain to expand my bac
 
 
 #### 🛡 Security
-![OWASP](https://img.shields.io/badge/-OWASP_Top_10-000000?logo=owasp&logoColor=white&style=flat-square)
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FE6600?style=flat-square)
-![Recon](https://img.shields.io/badge/-Reconnaissance-1E90FF?style=flat-square)
-![Security Testing](https://img.shields.io/badge/-Security_Testing-8B0000?style=flat-square)
+![Recon](https://img.shields.io/badge/-Recon-6A5ACD?style=flat-square&logo=target&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6F00?style=flat-square&logo=burpsuite&logoColor=white)
+
+![SQLi](https://img.shields.io/badge/-SQLi-CC0000?style=flat-square)
+![XSS](https://img.shields.io/badge/-XSS-DA0037?style=flat-square)
+![CSRF](https://img.shields.io/badge/-CSRF-BF1363?style=flat-square)
+![XXE](https://img.shields.io/badge/-XXE-880D1E?style=flat-square)
+![SSRF](https://img.shields.io/badge/-SSRF-8B0000?style=flat-square)
+![RCE](https://img.shields.io/badge/-RCE-9C27B0?style=flat-square)
+![IDOR](https://img.shields.io/badge/-IDOR-3F51B5?style=flat-square)
+![DoS/DDoS](https://img.shields.io/badge/-DoS%2FDDoS-546E7A?style=flat-square)
+![MITM](https://img.shields.io/badge/-MITM-455A64?style=flat-square)
+
+![Web Cache Poisoning](https://img.shields.io/badge/-Web%20Cache%20Poisoning-00838F?style=flat-square)
+![HTTP Smuggling](https://img.shields.io/badge/-HTTP%20Smuggling-00ACC1?style=flat-square)
+![Broken Access Control](https://img.shields.io/badge/-Broken%20Access%20Control-00695C?style=flat-square)
+![Command Injection](https://img.shields.io/badge/-Command%20Injection-2E7D32?style=flat-square)
+![Insecure Deserialization](https://img.shields.io/badge/-Insecure%20Deserialization-558B2F?style=flat-square)
+![Open Redirect](https://img.shields.io/badge/-Open%20Redirect-8D6E63?style=flat-square)
+![Clickjacking](https://img.shields.io/badge/-Clickjacking-5D4037?style=flat-square)
+![Race Conditions](https://img.shields.io/badge/-Race%20Conditions-3E2723?style=flat-square)
+![Business Logic Flaws](https://img.shields.io/badge/-Business%20Logic%20Flaws-607D8B?style=flat-square)
 
 
 ---
