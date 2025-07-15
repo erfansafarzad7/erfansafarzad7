@@ -87,7 +87,9 @@ Currently exploring Express.js, advanced DevOps, and Blockchain to expand my bac
 ![multithreading](https://img.shields.io/badge/-Multithreading-81C784?style=flat-square)
 ![pytest](https://img.shields.io/badge/-pytest-0A0A0A?style=flat-square)
 ![Django Tests](https://img.shields.io/badge/-Django%20Testing-092E20?logo=django&logoColor=white&style=flat-square)
+![Algorithms](https://img.shields.io/badge/-Algorithms%20%26%20Data%20Structures-37474F?style=flat-square&logo=code&logoColor=white)
 ![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-6A1B9A?style=flat-square)
+![Database Design](https://img.shields.io/badge/-Database%20Design-4479A1?style=flat-square)
 
 
 #### 🧩 Databases & Data
