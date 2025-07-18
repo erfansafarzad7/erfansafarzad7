@@ -156,14 +156,17 @@ Currently exploring Express.js, advanced DevOps, and Blockchain to expand my bac
 
 ### 💡 Soft Skills
 
+
 - 🤝 Team player with strong communication  
-- 🧠 Analytical thinker with product-oriented mindset  
-- 🚀 Agile-ready (Scrum & Kanban)  
+- ⭐ Leadership, learning, and technical ownership
+- 🎯 Strong business understanding & requirements translation  
+- 🧭 Strategic thinker with experience in product lifecycle  
+- 🕐 Excellent time management and self-discipline in remote work  
 - 📝 Clean documentation & Git workflow  
-- 🎯 Leadership, learning, and technical ownership
-
-
-
+- 🗣️ Effective communicator with technical & non-technical stakeholders  
+- 📚 Constant learner, passionate about technology & system design  
+- 🔁 Comfortable with Agile/Scrum workflows: sprints, retrospectives, daily standups  
+- 🌱 Adaptive, self-motivated, and resilient under pressure 
 
 
 
