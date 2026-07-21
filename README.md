@@ -10,7 +10,8 @@ I'm a Backend developer with a product mindset, passionate about building scalab
 </p>
 
 <p align="center">
-Skilled in "Django", "FastAPI",  "Nest", "Next", "React", and async architectures.
+<!-- Skilled in "Django", "FastAPI",  "Nest", "Next", "React", and async architectures. -->
+Skilled in "Python" and "JS".
 </p>
 
 <p align="center">
@@ -71,7 +72,6 @@ Currently exploring advanced DevOps, to expand my backend expertise.
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=mui&logoColor=white)
-![ShadCN](https://img.shields.io/badge/-ShadCN-111827?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </br>
 
