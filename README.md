@@ -71,10 +71,22 @@ Currently exploring advanced DevOps, to expand my backend expertise.
 ![ShadCN](https://img.shields.io/badge/-ShadCN-111827?style=flat-square&logo=tailwindcss&logoColor=white)
 
 
-#### 🧠 Async & Architecture
-![asyncio](https://img.shields.io/badge/-asyncio-3776AB?logo=python&logoColor=white&style=flat-square)
-![multiprocessing](https://img.shields.io/badge/-Multiprocessing-4CAF50?style=flat-square)
-![multithreading](https://img.shields.io/badge/-Multithreading-81C784?style=flat-square)
+#### 🧩 Databases & ORM
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat-square)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square)
+
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FF7043?style=flat-square)
+![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?logo=pydantic&logoColor=white&style=flat-square)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white&style=flat-square)
+![TypeORM](https://img.shields.io/badge/-TypeORM-E0234E?logo=typeorm&logoColor=white&style=flat-square)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square)
+
+
+#### 🧠 Architecture
 ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat-square)
 
@@ -89,21 +101,6 @@ Currently exploring advanced DevOps, to expand my backend expertise.
 ![System Design](https://img.shields.io/badge/-System%20Design-8E44AD?style=flat-square&logo=architect&logoColor=white)
 
 
-#### 🧩 Databases & ORM
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat-square)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square)
-<!--![Upstash](https://img.shields.io/badge/-Upstash-00DC82?style=flat-square&logo=redis&logoColor=white) -->
-
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FF7043?style=flat-square)
-![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?logo=pydantic&logoColor=white&style=flat-square)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white&style=flat-square)
-![TypeORM](https://img.shields.io/badge/-TypeORM-E0234E?logo=typeorm&logoColor=white&style=flat-square)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square)
-
 
 #### ⚙️ Tools & DevOps
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
@@ -111,7 +108,6 @@ Currently exploring advanced DevOps, to expand my backend expertise.
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-<!-- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square) -->
 
 
 <!--
