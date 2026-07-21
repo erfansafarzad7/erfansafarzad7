@@ -47,34 +47,28 @@ Currently exploring advanced DevOps, to expand my backend expertise.
 
 ---
 
+<!-- ### ⚙️ Tech Stack -->
 
-### ⚙️ Tech Stack
-</br>
+<!-- </br> -->
 
 #### ✨ Languages:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-
-</br>
-
+---
 #### 🛠 Backend
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?logo=fastify&logoColor=white&style=flat-square)
-
-</br>
-
+---
 #### 💻 Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=mui&logoColor=white)
-
-</br>
-
+---
 #### 🧩 Databases & ORM
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
@@ -88,9 +82,7 @@ Currently exploring advanced DevOps, to expand my backend expertise.
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white&style=flat-square)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-E0234E?logo=typeorm&logoColor=white&style=flat-square)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square)
-
-</br>
-
+---
 #### 🧠 Architecture
 ![REST](https://img.shields.io/badge/-REST-005571?style=flat-square)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)
@@ -101,9 +93,7 @@ Currently exploring advanced DevOps, to expand my backend expertise.
 ![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-6A1B9A?style=flat-square)
 ![Database Design](https://img.shields.io/badge/-Database%20Design-4479A1?style=flat-square)
 ![System Design](https://img.shields.io/badge/-System%20Design-8E44AD?style=flat-square&logo=architect&logoColor=white)
-
-</br>
-
+---
 #### ⚙️ Tools & DevOps
 ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat-square)
@@ -113,9 +103,7 @@ Currently exploring advanced DevOps, to expand my backend expertise.
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-
-</br>
-
+---
 <!--
 #### 🛡 Security
 ![Recon](https://img.shields.io/badge/-Recon-6A5ACD?style=flat-square&logo=target&logoColor=white)
@@ -140,10 +128,8 @@ Currently exploring advanced DevOps, to expand my backend expertise.
 ![Clickjacking](https://img.shields.io/badge/-Clickjacking-5D4037?style=flat-square)
 ![Race Conditions](https://img.shields.io/badge/-Race%20Conditions-3E2723?style=flat-square)
 ![Business Logic Flaws](https://img.shields.io/badge/-Business%20Logic%20Flaws-607D8B?style=flat-square)
+---
 -->
-
-</br>
-
 ### 🎯 Learning Goals
 
 ![DevOps](https://img.shields.io/badge/-DevOps-24B6A4?logo=azure-devops&logoColor=white&style=flat-square)
@@ -153,9 +139,7 @@ Currently exploring advanced DevOps, to expand my backend expertise.
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square)
 ![Smart Contracts](https://img.shields.io/badge/-Smart_Contracts-764ABC?style=flat-square)
 
-
 ---
-
 ### 💡 Soft Skills
 
 
@@ -168,13 +152,6 @@ Currently exploring advanced DevOps, to expand my backend expertise.
 - 📚 Constant learner, passionate about technology & system design  
 - 🔁 Comfortable with Agile/Scrum workflows: sprints, retrospectives, daily standups  
 - 🌱 Adaptive, self-motivated, and resilient under pressure 
-
-
-</br>
-
-
-
-
 
 
 
