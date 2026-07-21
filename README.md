@@ -48,12 +48,14 @@ Currently exploring advanced DevOps, to expand my backend expertise.
 
 
 ### ⚙️ Tech Stack
+</br>
 
 #### ✨ Languages:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 
+</br>
 
 #### 🛠 Backend
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
@@ -62,6 +64,7 @@ Currently exploring advanced DevOps, to expand my backend expertise.
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?logo=fastify&logoColor=white&style=flat-square)
 
+</br>
 
 #### 💻 Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
@@ -70,6 +73,7 @@ Currently exploring advanced DevOps, to expand my backend expertise.
 ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=mui&logoColor=white)
 ![ShadCN](https://img.shields.io/badge/-ShadCN-111827?style=flat-square&logo=tailwindcss&logoColor=white)
 
+</br>
 
 #### 🧩 Databases & ORM
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
@@ -85,6 +89,7 @@ Currently exploring advanced DevOps, to expand my backend expertise.
 ![TypeORM](https://img.shields.io/badge/-TypeORM-E0234E?logo=typeorm&logoColor=white&style=flat-square)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square)
 
+</br>
 
 #### 🧠 Architecture
 ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square)
@@ -100,7 +105,7 @@ Currently exploring advanced DevOps, to expand my backend expertise.
 ![Database Design](https://img.shields.io/badge/-Database%20Design-4479A1?style=flat-square)
 ![System Design](https://img.shields.io/badge/-System%20Design-8E44AD?style=flat-square&logo=architect&logoColor=white)
 
-
+</br>
 
 #### ⚙️ Tools & DevOps
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
@@ -109,6 +114,7 @@ Currently exploring advanced DevOps, to expand my backend expertise.
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 
+</br>
 
 <!--
 #### 🛡 Security
@@ -136,8 +142,7 @@ Currently exploring advanced DevOps, to expand my backend expertise.
 ![Business Logic Flaws](https://img.shields.io/badge/-Business%20Logic%20Flaws-607D8B?style=flat-square)
 -->
 
----
-
+</br>
 
 ### 🎯 Learning Goals
 
@@ -165,6 +170,7 @@ Currently exploring advanced DevOps, to expand my backend expertise.
 - 🌱 Adaptive, self-motivated, and resilient under pressure 
 
 
+</br>
 
 
 
