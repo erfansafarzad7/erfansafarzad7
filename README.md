@@ -92,9 +92,6 @@ Currently exploring advanced DevOps, to expand my backend expertise.
 </br>
 
 #### 🧠 Architecture
-![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat-square)
-
 ![REST](https://img.shields.io/badge/-REST-005571?style=flat-square)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-35495E?style=flat-square)
@@ -108,9 +105,12 @@ Currently exploring advanced DevOps, to expand my backend expertise.
 </br>
 
 #### ⚙️ Tools & DevOps
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 
