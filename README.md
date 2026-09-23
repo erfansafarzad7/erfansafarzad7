@@ -1,35 +1,41 @@
 
 <h1 align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Erfan
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ 
+<!--Hi, I'm Erfan -->
 
- Welcome To My GitHub Profile
+Welcome to My GitHub Profile
+
 </h1>
 
-<p align="center">
-I'm a Backend developer with a product mindset, passionate about building scalable systems and solving real-world problems.
-</p>
+<!-- <p align="center">
+I'm a Full-Stack Developer with 4+ years of professional experience, building reliable products with Django, NestJS, React, and Next.js.
+</p> -->
 
-<p align="center">
-<!-- Skilled in "Django", "FastAPI",  "Nest", "Next", "React", and async architectures. -->
-Skilled in "Python" and "JS".
-</p>
+<!-- <p align="center">
+My primary focus is backend development, while I also build modern frontend applications and work across the full development lifecycle.
+</p> -->
 
-<p align="center">
-Comfortable with DevOps, security fundamentals, and full product lifecycles — from idea to deployment.
-</p>
- 
-<p align="center">
-Currently exploring advanced DevOps, to expand my backend expertise.
-</p>
+<!-- <p align="center">
+I apply software engineering principles such as clean architecture, system design, testing, security, performance optimization, and maintainability.
+</p> -->
 
+<!-- <p align="center">
+I also use AI-powered automation to streamline repetitive workflows, improve delivery, and stay focused on solving meaningful product problems.
+</p> -->
+
+<!-- <p align="center">
+Currently expanding my knowledge of DevOps and scalable system architecture.
+</p> -->
 
 <br/>
 
 <p align="center">
 📞 Here are the ways to get in touch with me:
 </p>
+
 <div id="badges" align="center">
-  
+
   <a href="https://t.me/erfansafarzad7">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
@@ -37,13 +43,13 @@ Currently exploring advanced DevOps, to expand my backend expertise.
   <a href="mailto:erfansafarzad7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=red&style=for-the-badge" alt="Gmail Badge"/>
   </a>
-  
+
   <a href="https://www.linkedin.com/in/erfansafarzad7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
 
-
 </div>
+
 
 ---
 
@@ -139,19 +145,20 @@ Currently exploring advanced DevOps, to expand my backend expertise.
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square)
 ![Smart Contracts](https://img.shields.io/badge/-Smart_Contracts-764ABC?style=flat-square)
 
----
-### 💡 Soft Skills
 
 
-- ⭐ Leadership, learning, and technical ownership
-- 🎯 Strong business understanding & requirements translation  
-- 🧭 Strategic thinker with experience in product lifecycle  
-- 🕐 Excellent time management and self-discipline in remote work  
-- 📝 Clean documentation & Git workflow  
-- 🗣️ Effective communicator with technical & non-technical stakeholders  
-- 📚 Constant learner, passionate about technology & system design  
-- 🔁 Comfortable with Agile/Scrum workflows: sprints, retrospectives, daily standups  
-- 🌱 Adaptive, self-motivated, and resilient under pressure 
+<!--### 💡 Soft Skills -->
+
+
+<!-- - ⭐ Leadership, learning, and technical ownership -->
+<!-- - 🎯 Strong business understanding & requirements translation  -->
+<!-- - 🧭 Strategic thinker with experience in product lifecycle  -->
+<!-- - 🕐 Excellent time management and self-discipline in remote work  -->
+<!-- - 📝 Clean documentation & Git workflow  -->
+<!-- - 🗣️ Effective communicator with technical & non-technical stakeholders  -->
+<!-- - 📚 Constant learner, passionate about technology & system design  -->
+<!-- - 🔁 Comfortable with Agile/Scrum workflows: sprints, retrospectives, daily standups  -->
+<!-- - 🌱 Adaptive, self-motivated, and resilient under pressure  -->
 
 
 
